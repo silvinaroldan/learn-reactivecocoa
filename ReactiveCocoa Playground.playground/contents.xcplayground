@@ -6,5 +6,6 @@
         <page name='Signal iOS Examples'/>
         <page name='SignalProducer'/>
         <page name='MutableProperty'/>
+        <page name='Combining signals and producers'/>
     </pages>
 </playground>

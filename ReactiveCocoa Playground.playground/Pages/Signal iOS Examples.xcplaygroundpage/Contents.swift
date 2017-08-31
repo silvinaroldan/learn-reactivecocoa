@@ -45,7 +45,7 @@ scopedExample("Observing user defaults", enabled: false) {
                 // Default scheme
                 break
             }
-    }
+        }
     
 }
 
