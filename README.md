@@ -10,16 +10,13 @@ Dependencies:
 ## Get Started
 
  1. Clone this repository.
- 2. Run `git submodule update --init --recursive`
- 1. Retrieve the project dependencies using one of the following terminal commands from the ReactiveSwift project root directory:
-     - `git submodule update --init --recursive` **OR**, if you have [Carthage][] installed    
-     - `carthage checkout`
- 1. Open `learn-reactivecocoa.xcworkspace`
- 1. Build `Result-iOS` scheme
- 1. Build `ReactiveSwift-iOS` scheme
- 1. Build `ReactiveCocoa-iOS` scheme
- 1. Finally open the `ReactiveSwift.playground`
- 1. Show the debug area with `View > Show Debug Area` or `Cmd-Shift-y`.
+ 2. Retrieve the project dependencies with `git submodule update --init --recursive`
+ 3. Open `learn-reactivecocoa.xcworkspace`
+ 4. Build `Result-iOS` scheme
+ 5. Build `ReactiveSwift-iOS` scheme
+ 6. Build `ReactiveCocoa-iOS` scheme
+ 7. Open the `ReactiveSwift.playground`
+ 8. Show the debug area with `View > Show Debug Area` or `Cmd-Shift-y`.
 
 
 ## Tips
