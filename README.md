@@ -4,8 +4,8 @@ If you're wondering how to use  `Signal`, `SignalProducer`, and `MutableProperty
 
 Dependencies:
 
-- [ReactiveCocoa 6.0.1](https://github.com/ReactiveCocoa/ReactiveCocoa/)
-- [ReactiveSwift 2.0.1](https://github.com/ReactiveCocoa/ReactiveSwift/)
+- [ReactiveCocoa 8.0.0](https://github.com/ReactiveCocoa/ReactiveCocoa/)
+- [ReactiveSwift 4.0.0](https://github.com/ReactiveCocoa/ReactiveSwift/)
 
 ## Get Started
 
